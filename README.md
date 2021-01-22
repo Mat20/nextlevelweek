@@ -117,6 +117,5 @@ _________
 
 Agradecimentos [Rocketseat](https://rocketseat.com.br/)
 
-👤 **Roberta Soares**
-* Github: [Roberta Soares](https://github.com/rosooares)
-* Linkedin: [Roberta Soares](https://www.linkedin.com/in/robertassoares/)
+👤 **Matheus Souza**
+* Github: [Matheus Souza](https://github.com/Mat20)
